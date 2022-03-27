@@ -1,0 +1,164 @@
+.header-box, .header-links {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #f9faf8;
+    align-items: center;
+    gap: 280px;
+    padding-top: 6px;
+}
+
+.header-links {
+    gap: 15px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-box {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+    background-color: #1f2937;
+}
+
+.right-box, .left-box {
+    width: 450px;
+    height: 250px;
+}
+
+.hero-main, .action-main {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+    margin-bottom: 10px;
+}
+
+.hero-secondary, .action-secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 10px;
+}
+
+.action-main {
+    font-size: 24px;
+}
+
+button {
+    background-color: #3882f6;
+    width: 150px;
+    height: auto;
+    padding: 6px;
+    font-weight: bold;
+    color: #f9faf8;
+    border-color: #3882f6;
+    border-radius: 1em  
+}
+
+.signup-button button {
+    border: 4px;
+    border-color: #f9faf8;
+    border-style: solid;
+    border-radius: 1em
+}
+
+.hero-image {
+    background-color: #e5e7eb;
+    height: 250px;
+    border-radius: 1em
+}
+
+.information-header {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.box-content{
+    width: 150px;
+    height: 150px;
+    border: 4px;
+    border-color: #3882f6;
+    border-style: solid;
+    border-radius: 1em
+}
+
+.subtitle {
+    width: 150px;
+    text-align: center;
+    margin-top: 10px;
+}
+.boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    margin: 30px;
+}
+
+.information-box {
+    height: 500px;
+}
+
+.quote-box {
+    background-color: #e5e7eb;
+    height: 500px;
+    text-align: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.inspiring-quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-author {
+    font-size: 24px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.inspiring-box {
+    width: 1000px;
+}
+
+.signup-box {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.background-box {
+    display: flex;
+    height: 200px;
+    width: 1000px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 1em
+}
+
+.footer-box {
+    height: 100px;
+    background-color: #1f2937;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-content {
+    text-align: center;
+}
+
+.footer-text {
+    color: #f9faf8;
+}
